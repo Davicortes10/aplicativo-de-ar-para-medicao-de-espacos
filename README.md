@@ -49,7 +49,7 @@ Este projeto consiste em um aplicativo de **Realidade Aumentada (AR)** para medi
 
 1. **Clone o repositório**
    ```bash
-   git clone [URL_DO_REPOSITORIO]
+   git clone https://github.com/Davicortes10/aplicativo-de-ar-para-medicao-de-espacos.git
    ```
 
 2. **Abra o projeto no Unity**
