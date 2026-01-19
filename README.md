@@ -1,4 +1,4 @@
-# 📏 Aplicativo de AR para Medição de Espaços - Projeto de Computação Gráfica
+# Aplicativo de AR para Medição de Espaços - Projeto de Computação Gráfica
 
 **Disciplina:** Computação Gráfica  
 **Curso:** Engenharia da Computação  
